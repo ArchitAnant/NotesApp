@@ -6,4 +6,5 @@ data class Notes(
     var detail: String,
     var time:String,
     var docId:String,
+    val tag :String,
 )
