@@ -1,5 +1,9 @@
 package com.timepass.notesapp
-
+/* 
+Disclaimer:
+This app has been designed and developed by Archit Anant
+as a personal project
+*/
 import android.annotation.SuppressLint
 import android.os.Bundle
 import androidx.activity.ComponentActivity
